@@ -21,7 +21,7 @@
 ><a href="https://app.slack.com/client/TQH4AQQLB/D02B0C430JD/user_profile/U02DC6686N5" target="_blank"><img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Leo-Slack"></a>
 <br>
 
-> ## ⇝ Tecnologias e Ferramentas: <br>
+> ## ⇝ Tecnologias e Ferramentas : <br>
 >
 ><div align = estilo "center" ="display: inline_block">
  ><img align="center" alt="HTML" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -51,16 +51,3 @@
 </div>
 
  ##
-
-
-
-
-
-
-
-
-
-
-
-
-
