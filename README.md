@@ -47,7 +47,7 @@
 </div>
  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_border=true&border_radius=15&bg_color=38,000000,000000,000000,000000,000000,001c00,006400&theme=gotham">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&hide_border=true&border_radius=15&bg_color=38,000000,000000,000000,000000,000000,001c00,006400&theme=gotham">
 </div>
 
  ##
