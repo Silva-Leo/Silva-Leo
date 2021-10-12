@@ -11,14 +11,17 @@
 - [ ]  Data Science - Alura<br>
 </details>
 
+><div align = estilo "center" ="display: inline_block">
+ 
 > ## ⇝ Conecte-se comigo : <br>
 >
 ><a href="https://www.linkedin.com/in/leoosilva/" target="_blank"><img align="center" alt="Leo-linkedin" height="40px" width="40px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633889061145.svg?token=exp=1633889967~hmac=abf5360b9514d96a0f2ababa9199338b"></a>
-><a href="https://codepen.io/silva-leo" target="_blank"><img align="center" alt="Leo-codepen" height="40px" width="40px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633888930665.svg?token=exp=1633889833~hmac=0d08a502c1829a38b03afc47acf42d20"></a>
-><a href = "mailto:leonardo.ghost@gmail.com"><img align="center" height="45px" width="45px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633890032860.svg?token=exp=1633890935~hmac=0acb1c6f7efac6287093690a27849d94" target="_blank"></a>
 ><a href="https://web.digitalinnovation.one/users/leon_pcdt1" target="_blank"><img align="center" height="47px" width="47px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633888225192.svg?token=exp=1633889128~hmac=56b3d0629b787f1d7593d687266c3296" alt="Leo-Dgti"></a>
-><a href="https://www.freecodecamp.org/leosilva" target="_blank"><img align="center" alt="Leo-freecodeacad" height="47px" width="47px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633887648844.svg?token=exp=1633888556~hmac=c08fdf131337fe1991b03c7ba2c574df" estilo="largura máxima:100%;" ></a>
 ><a href="https://app.slack.com/client/TQH4AQQLB/D02B0C430JD/user_profile/U02DC6686N5" target="_blank"><img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Leo-Slack"></a>
+<a href="https://codepen.io/silva-leo" target="_blank"><img align="center" alt="Leo-codepen" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015860-098a7525-43ca-42f4-a811-7bed981556a0.png"></a>
+><a href="mailto:leonardo.ghost@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
+><a href="https://www.freecodecamp.org/leosilva" target="_blank"><img align="center" alt="Leo-freecodeacad" height="47px" width="47px" src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg"></a></div>
+ 
 <br>
 
 > ## ⇝ Tecnologias e Ferramentas : <br>
