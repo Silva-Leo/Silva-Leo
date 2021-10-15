@@ -15,8 +15,8 @@
  
 > ## ⇝ Conecte-se comigo : <br>
 >
-><a href="https://www.linkedin.com/in/leoosilva/" target="_blank"><img align="center" alt="Leo-linkedin" height="40px" width="40px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633889061145.svg?token=exp=1633889967~hmac=abf5360b9514d96a0f2ababa9199338b"></a>
-><a href="https://web.digitalinnovation.one/users/leon_pcdt1" target="_blank"><img align="center" height="47px" width="47px" src="https://cdn-user-icons.flaticon.com/39860/39860676/1633888225192.svg?token=exp=1633889128~hmac=56b3d0629b787f1d7593d687266c3296" alt="Leo-Dgti"></a>
+><a href="https://www.linkedin.com/in/leoosilva/" target="_blank"><img align="center" alt="Leo-linkedin" height="40px" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634315539~hmac=6da8ec66e293d93c69b66d5c72025c28"></a>
+><a href="https://web.digitalinnovation.one/users/leon_pcdt1" target="_blank"><img align="center" height="47px" width="47px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/farc8snk7bmpewhrlshj" alt="Leo-Dgti"></a>
 ><a href="https://app.slack.com/client/TQH4AQQLB/D02B0C430JD/user_profile/U02DC6686N5" target="_blank"><img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Leo-Slack"></a>
 <a href="https://codepen.io/silva-leo" target="_blank"><img align="center" alt="Leo-codepen" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015860-098a7525-43ca-42f4-a811-7bed981556a0.png"></a>
 ><a href="mailto:leonardo.ghost@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
