@@ -4,7 +4,7 @@
 * Tenho 23 anos
 * Moro em Mongaguá, Litoral Paulista - SP
 <details>
-<summary>Objetivos para me tornar o profissional que almejo</summary>
+<summary>Objetivos</summary>
  
 - [ ]  Desenvolvedor Web Full Stack - Resilia<br>
 - [ ]  UX design - Alura<br>
