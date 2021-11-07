@@ -30,15 +30,15 @@
  ><img align="center" alt="HTML" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  ><img align="center" alt="CSS" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  ><img align="center" alt="Js" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- ><img align="center" alt="Jquery" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+ ><!--  ><img align="center" alt="Jquery" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> -->
  ><img align="center" alt="Bootstrap" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
  ><img align="center" alt="Markdown" height="57px" width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"><br>
  ><br>
  ><img align="center" alt="VsCode" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  ><img align="center" alt="GIT" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
  ><img align="center" alt="Docker" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
- ><img align="center" alt="Figma" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
- ><img align="center" alt="Trello" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></div>
+ ><img align="center" alt="Figma" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div>
+<!--  ><img align="center" alt="Trello" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> -->
  
 
 >## ⇝  Alguns dados :
