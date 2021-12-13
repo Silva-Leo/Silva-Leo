@@ -49,7 +49,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Leo&layout=compact&hide_border=true&border_radius=15&bg_color=38,000000,000000,000000,000000,000000,001c00,006400&langs_count=7&theme=gotham"/>
 </div> -->
  
-<div align="center">
+<div align="right">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&hide_border=true&border_radius=15&bg_color=38,000000,000000,000000,000000,000000,001c00,006400&theme=gotham">
 </div>
 
