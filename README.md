@@ -19,7 +19,7 @@
 ><a href="https://web.digitalinnovation.one/users/leon_pcdt1" target="_blank"><img align="center" height="47px" width="47px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/farc8snk7bmpewhrlshj" alt="Leo-Dgti"></a>
 ><a href="https://app.slack.com/client/TQH4AQQLB/D02B0C430JD/user_profile/U02DC6686N5" target="_blank"><img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Leo-Slack"></a>
 <a href="https://codepen.io/silva-leo" target="_blank"><img align="center" alt="Leo-codepen" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015860-098a7525-43ca-42f4-a811-7bed981556a0.png"></a>
-><a href="mailto:leonardo.ghost@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
+><a href="mailto:devleonardosilva@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
 ><a href="https://www.freecodecamp.org/leosilva" target="_blank"><img align="center" alt="Leo-freecodeacad" height="47px" width="47px" src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg"></a></div>
  
 <br>
