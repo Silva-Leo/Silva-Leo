@@ -1,15 +1,16 @@
 ## Hi, I'm Leo Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="30px">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87882835/136711745-7d605e12-22fd-49a7-b197-59b07b0f5112.gif" height="245px" width="400px">
 
+* [x] Desenvolvedor Web Full Stack - Resilia<br>
 * Tenho 23 anos
 * Moro em Mongaguá, Litoral Paulista - SP
-<details>
-<summary>Objetivos</summary>
+<!-- <details>
+<summary>Objetivos</summary> -->
  
-- [ ]  Desenvolvedor Web Full Stack - Resilia<br>
-- [ ]  UX design - Alura<br>
+
+<!-- - [ ]  UX design - Alura<br>
 - [ ]  Data Science - Alura<br>
-</details>
+</details> -->
 
 ><div align = estilo "center" ="display: inline_block">
  
