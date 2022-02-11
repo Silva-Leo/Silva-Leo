@@ -1,15 +1,14 @@
 ## Hi, I'm Leo Silva, tenho 23 anos. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="30px">
 
+<div align="center">
+ 
+### Front-End | UI/UX | Design System </div>
+
 > Moro em Mongaguá, Litoral Paulista - SP
 > 
 > :books:Sou um Desenvolvedor Web Full Stack - Resilia Educação<br>
 >  
 
-<div align="center">
- 
- ### Pratico e me direciono em
- 
- #### Front End | UI/UX | Design System </div>
 
 ><div align="center">
  
