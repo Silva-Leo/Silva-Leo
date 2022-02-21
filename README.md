@@ -20,7 +20,7 @@
 <!-- ><a href="mailto:devleonardosilva@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
 ><a href="https://www.freecodecamp.org/leosilva" target="_blank"><img align="center" alt="Leo-freecodeacad" height="47px" width="47px" src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg"></a> 
 </div>-->
- > ## ⇝ Tecnologias e Ferramentas : <br>
+ > ## Tecnologias e Ferramentas : <br>
 >
 ><div align = estilo "center" ="display: inline_block">
  ><img align="center" alt="HTML" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
