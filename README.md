@@ -20,21 +20,21 @@
 <!-- ><a href="mailto:devleonardosilva@gmail.com"><img align="center" height="40px" width="40px" src="https://user-images.githubusercontent.com/87882835/137015717-c9c70c5f-85eb-448e-a2b9-915a4afe0501.png" target="_blank"></a>
 ><a href="https://www.freecodecamp.org/leosilva" target="_blank"><img align="center" alt="Leo-freecodeacad" height="47px" width="47px" src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg"></a> 
 </div>-->
- > ## Tecnologias e Ferramentas  <br>
->
-><div align = estilo "center" ="display: inline_block">
- ><img align="center" alt="HTML" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- ><img align="center" alt="CSS" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- ><img align="center" alt="Bootstrap" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
- ><img align="center" alt="Js" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- ><img align="center" alt="Ts" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
- ><img align="center" alt="React" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
- ><img align="center" alt="NodeJs" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
- ><img align="center" alt="VsCode" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- ><img align="center" alt="GIT" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
- ><img align="center" alt="MySQL" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- ><img align="center" alt="Docker" height="57px" width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
- ><img align="center" alt="Figma" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div>
+ ## Tecnologias e Ferramentas  <br>
+
+<div align ="center" ="display: inline_block">
+<img align="center" alt="HTML" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Bootstrap" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img align="center" alt="Js" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="Ts" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="React" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<img align="center" alt="NodeJs" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="VsCode" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="GIT" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+<img align="center" alt="MySQL" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Docker" height="57px" width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+<img align="center" alt="Figma" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div>
 <!--  ><img align="center" alt="Vue" height="57px" width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"> -->
 
 <br>
