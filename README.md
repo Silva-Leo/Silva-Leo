@@ -43,12 +43,9 @@
 
 <div align="center">
  <a href="https://github.com/Silva-Leo">
-<img src="https://github-readme-stats.vercel.app/api?username=Silva-Leo&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Meus Status Github:&icon_color=23D60F&border_radius=15&count_private=true&theme=chartreuse-dark&card_width=100">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Leo&layout=compact&hide_border=true&border_radius=15&bg_color=38,000000,000000,000000,000000,000000,001c00,006400&langs_count=7&theme=gotham"/> -->
-</div> 
- 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&hide_border=true&border_radius=15&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=Silva-Leo&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Meus Status Github:&icon_color=23D60F&border_radius=15&count_private=true&theme=chartreuse-dark&card_width=100"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&hide_border=true&border_radius=15&theme=midnight-purple"/>
 </div>
+ 
 
  ##
