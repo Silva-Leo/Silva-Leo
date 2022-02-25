@@ -3,7 +3,7 @@
 
 <div align="center">
  
-### Front-End | UI/UX | Design System </div>
+### Full Stack Jr. </div>
 
 > #### :house:Moro em Mongaguá, Litoral Paulista - SP 
 >#### :books:Sou um Desenvolvedor Web Full Stack - Resilia Educação<br>
