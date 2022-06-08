@@ -5,8 +5,8 @@
  
 ### Full Stack Jr. </div>
 
-> #### :house:Moro em Mongaguá, Litoral Paulista - SP 
->#### :books:Sou um Desenvolvedor Web Full Stack - Resilia Educação<br>
+> #### :house: Moro em São Gonçalo do Sapucaí - MG 
+> #### :books: Sou um Desenvolvedor Web Full Stack Jr. - Resilia Educação<br>
 
 
 
