@@ -1,12 +1,13 @@
-## Olá, me chame de Leo Silva, tenho 23 anos. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="30px">
+## Olá, me chame de Leo Silva. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="30px">
 
 
 <div align="center">
  
-### Full Stack Jr. </div>
+### Desenvolvedor Web Full Stack Jr. </div>
 
-> #### :house: Moro em São Gonçalo do Sapucaí - MG 
-> #### :books: Desenvolvedor Web Full Stack Jr. - Resilia Educação<br>
+> #### 🎂 23 anos
+> #### :house: São Gonçalo do Sapucaí - MG 
+> #### :books: Análise e Desenvolvimento de Sistemas - UniFatecie<br>
 
 
 
