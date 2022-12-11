@@ -3,9 +3,9 @@
 
 <div align="center">
  
-### Desenvolvedor Web Full Stack Jr. </div>
+### Developer || Data Analyst in progress.. </div>
 
-> #### 🎂 23 anos
+> #### 🎂 24 anos
 > #### 📖:Big Data Engineer - Semantix Academy 
 > #### :books: Análise e Desenvolvimento de Sistemas - UniFatecie<br>
 
