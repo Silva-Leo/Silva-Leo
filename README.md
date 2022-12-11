@@ -6,7 +6,7 @@
 ### Desenvolvedor Web Full Stack Jr. </div>
 
 > #### 🎂 23 anos
-> #### :house: São Gonçalo do Sapucaí - MG 
+> #### 📖:Big Data Engineer - Semantix Academy 
 > #### :books: Análise e Desenvolvimento de Sistemas - UniFatecie<br>
 
 
