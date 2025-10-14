@@ -44,7 +44,7 @@
 <div align="center">
  <a href="https://github.com/Silva-Leo">
  <img src="https://github-readme-stats.vercel.app/api?username=Silva-Leo&layout=compact&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Meus Status Github:&icon_color=141439&border_radius=15&count_private=true&theme=midnight-purple&card_width=100"/>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&langs_count=8&hide_border=true&border_radius=15&theme=midnight-purple"/>
+ <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoSilva&langs_count=8&hide_border=true&border_radius=15&theme=midnight-purple"/>-->
 </div>
 
 
