@@ -3,10 +3,10 @@
 
 <div align="center">
  
-### Developer || Data Analyst in progress.. </div>
+### Developer || B2B || Vendas Administrativas </div>
 
-> #### 🎂 24 anos
-> #### 📖:Big Data Engineer - Semantix Academy 
+> #### 🎂 27 anos
+> #### 📖 Big Data Engineer - Semantix Academy 
 > #### :books: Análise e Desenvolvimento de Sistemas - UniFatecie<br>
 
 
